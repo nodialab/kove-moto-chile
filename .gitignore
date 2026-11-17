@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+# fuentes pesadas y de terceros: no se suben (se descargan de nuevo desde las webs de origen)
+assets/
+_crawl/
